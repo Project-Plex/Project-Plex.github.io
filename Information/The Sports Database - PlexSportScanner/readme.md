@@ -5,34 +5,20 @@
 
 # Project Plex - The Sports Database - PlexSportScanner 
 
+Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
+
 <p align="left">
     
 <ul>
-    <li>Coming..</li>
     <li>Download: use the following link: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads</a></li>
-    <li>File naming tools for Sports Database: <a href="https://www.tinymediamanager.org/">TinyMediaManager</a> | <a href="https://gitlab.com/tinyMediaManager">TinyMediaManager - Gitlab</a> and yet not supported: Media Companion, MediaElch, Radarr, Sonarr, Jellyfin,.. help and contact the software manufacturers!</li>
+    <li>File naming tools for Sports Database: - Nothing, yet not supported: TinyMediaManager, Media Companion, MediaElch, Radarr, Sonarr, Jellyfin,.. help and contact the software manufacturers!</li>
     <li>Plex Forum: <a href="https://forums.plex.tv/t/sports-integration-mod-agent-for-thesportsdb-com/739554/1">SportScanner</a></li>
-    <li>Download Example Files: <a href="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/main/Information/File%20Naming%20%26%20Tools/Example%20files%20for%20naming/Example%20files%20for%20naming.zip">Example files for naming.zip</a></li>
-      
-
+    <li>Download Example Files: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Example files for naming-PlexSportScanner.zip</a></li>
   </ul>
   </p>
 
 Github Source: <a href="https://github.com/Project-Plex/PlexSportScanner">https://github.com/Project-Plex/PlexSportScanner</a>
-Github Source: <a href="https://github.com/Project-Plex/PlexSportScanner/tree/main/Information">https://github.com/Project-Plex/PlexSportScanner/tree/main/Information</a>
-  
-
-> [!NOTE]
-> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
-
-
-# PlexSportScanner - SportScanner
-
-### This project is not active!
-
-
-Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
-
+ 
 
 <a href="https://discord.com/channels/481047912286257152/481047912286257155"><img src="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/master/Information/images/discord-logo.png" alt="Join the chat at Discord" height="24"></a> Join us at Discord: <a href="https://discord.com/channels/481047912286257152/481047912286257155">TheDataDB</a>
 
@@ -147,3 +133,6 @@ apikey=<your api key>
 
 > [!WARNING]
 > Please use our Example Video Demo Files after Installation - Sport Mediathek : <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Example files for naming-PlexSportScanner.zip</a>
+
+> [!NOTE]
+> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
