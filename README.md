@@ -3,9 +3,6 @@
 > Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectPlex</a>
 
 # Project Plex - Repository - English:
-## Current Version: 1.0.0
-
-<b>=> Instructions for adding this repository:</b>
 
 
 ## Plex Addons:
@@ -34,12 +31,9 @@
 
 
 
-
-
 # Project Plex - Repository - German:
-## Current Version: 1.0.0
 
-<b>=> Anweisungen zum Hinzufügen dieses Repositorys:</b>
+## Plex Addons:
 
 
 <p align="left">
