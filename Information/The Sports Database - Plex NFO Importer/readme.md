@@ -179,9 +179,40 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
 
 
+- The following information must be present in the NFO file.
+
+  - **<season>**: The correct season number, no letters or hyphens
+
+  - **<episode>**: The correct episode number, no letters or hyphens
+
+- The following information are important for file naming.
+
+  - **NFO File**: The NFO file must have the same name as the episode video file
+  - **Video File**: Must contain the correct season and episode number
+
+
+Example 1: Formula 1 => Season 2024: https://www.thesportsdb.com/season/4370-Formula-1/2024 / Episode: https://www.thesportsdb.com/event/1963748-Australian-Grand-Prix-Practice-1
+
+  - **<season>**: 2024
+
+  - **<episode>**: Formula 1 2024-03-22 Australian Grand Prix Practice 1.`S2024E14`.mkv
+
+<img src="_images/sportsdb01.jpg" alt="Addon Settings">
+
+> [!NOTE]
+> Some leagues use the rounds multiple times and are therefore not usable. The episode number can only be determined by counting in this examle, or use ready to use NFO files with folders from thesportsdb.com.
+
+
+Example 2: 
 
 
 
+> [!NOTE]
+> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
+
+
+`<season>`
+`<episode>`
 
 
 ## Information about this Project:
