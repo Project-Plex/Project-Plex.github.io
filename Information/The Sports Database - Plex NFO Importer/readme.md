@@ -32,16 +32,18 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
 - Addon settings
 
-- NFO & Video file informations
-
 - Addong using
 
-- Examples after scraping
+- NFO & Video file informations
+
+- Example files
 
 
 
 
-## Addon Download and Installation
+
+
+## Download and Installation
 
 
 ### Download & Installation
@@ -55,6 +57,10 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 7. if necessary change the owner and permissions of the .bundle and
 8. restart plex again.
 
+<img src="_images/winfiles01.jpg" alt="Addon Settings">
+
+<img src="_images/winfiles02.jpg" alt="Addon Settings">
+
 Install on ubuntu as example:
 - Download from github and unzip
 - Remove "-master" from the end of both folder names.
@@ -65,9 +71,27 @@ Install on ubuntu as example:
 Done.
 
 
-<img src="_images/github01.jpg" alt="Addon Settings">
 
-<img src="_images/nfofile01.jpg" alt="Addon Settings">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Addon Settings
+
+### Addon Settings - General 
 
 <img src="_images/plugin01.jpg" alt="Addon Settings">
 
@@ -88,6 +112,15 @@ Done.
 <img src="_images/plugin09.jpg" alt="Addon Settings">
 
 
+
+
+
+
+
+## Addong using
+
+### Addong using - Plex Default Skin
+
 <img src="_images/view01.jpg" alt="Addon Settings">
 
 
@@ -105,9 +138,10 @@ Done.
 
 <img src="_images/view06.jpg" alt="Addon Settings">
 
-<img src="_images/winfiles01.jpg" alt="Addon Settings">
 
-<img src="_images/winfiles02.jpg" alt="Addon Settings">
+## Example files
+
+## Example files - for Plex NFO Importer
 
 <img src="_images/winfiles03.jpg" alt="Addon Settings">
 
@@ -115,28 +149,21 @@ Done.
 
 <img src="_images/winfiles05.jpg" alt="Addon Settings">
 
+### Overview Github files
 
-
-
-
-
-## Addon Settings
-
-### Addon Settings - General 
+<img src="_images/github01.jpg" alt="Addon Settings">
 
 
 
 ## NFO & Video file informations
 
+<img src="_images/nfofile01.jpg" alt="Addon Settings">
 
 
 
-## Addong using
-
-### Addong using - Kodi Default Skin - TV show view
 
 
-## Examples after scraping
+
 
 
 ## Information about this Project:
