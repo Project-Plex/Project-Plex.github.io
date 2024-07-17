@@ -11,7 +11,7 @@ Please use: <a href="https://github.com/mmmmmtasty/SportScanner">Plex SportScann
 <ul>
     <li>Coming..</li>
     <li>-</li>
-    <li>Download: Use the Project Kodi Repository in Kodi: <a href="https://project-kodi.github.io/">https://project-kodi.github.io/</a></li>
+    <li>Download: Use the: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads</a></li>
   </ul>
   </p>
 
