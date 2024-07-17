@@ -11,7 +11,6 @@ Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Proj
     
 <ul>
     <li>Download: use the following link: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads</a></li>
-    <li>File naming tools for Sports Database: - Nothing, yet not supported: TinyMediaManager, Media Companion, MediaElch, Radarr, Sonarr, Jellyfin,.. help and contact the software manufacturers!</li>
     <li>Plex Forum: <a href="https://forums.plex.tv/t/sports-integration-mod-agent-for-thesportsdb-com/739554/1">SportScanner</a></li>
     <li>Download Example Files: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Example files for naming-PlexSportScanner.zip</a></li>
   </ul>
