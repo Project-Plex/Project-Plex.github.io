@@ -31,7 +31,7 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 - Display in Plex
 - Example files
 - NFO & Video file informations
-
+- Information about this Project 
 
 
 ## Download and Installation
@@ -65,6 +65,13 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 ## Settings
 
 ### Settings - Plex server 
+
+
+- Server -> Settings -> Agents
+
+  - **Shows**: xxxx
+
+
 
 <img src="_images/plugin01.jpg" alt="Addon Settings">
 
