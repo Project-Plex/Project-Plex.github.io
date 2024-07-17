@@ -62,11 +62,16 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 6. run "sudo service plexmediaserver restart".
 
 
-## Addon Settings
+## Settings
 
-### Addon Settings - General 
+### Settings - Plex server 
 
 <img src="_images/plugin01.jpg" alt="Addon Settings">
+
+
+
+### Settings - Create library 
+
 
 <img src="_images/plugin02.jpg" alt="Addon Settings">
 
@@ -83,11 +88,6 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 <img src="_images/plugin08.jpg" alt="Addon Settings">
 
 <img src="_images/plugin09.jpg" alt="Addon Settings">
-
-
-
-
-
 
 
 ## Display in Plex
