@@ -74,20 +74,41 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
   => Move with drag and drop to reach the desired position
   
-
-
 <img src="_images/plugin01.jpg" alt="Addon Settings">
-
 
 
 ### Settings - Create library 
 
+- Add Library -> Select type
+
+  - **Type**: TV Shows
+
+  - **Name**: Video Library Names, as example: `Sports`
+
+  - **Language**: English - Desired language, currently depending on the contents of the NFO file. 
 
 <img src="_images/plugin02.jpg" alt="Addon Settings">
 
+- Add Library -> Add folders
+
+  - **Path**: In our example, the video and NFO files are located under the following path: C:\Plex-Demo-Files\Sports
+
 <img src="_images/plugin03.jpg" alt="Addon Settings">
 
+
+- Add Library -> Advanced
+
+  - **Agent**: Select agent `TheSportsDB-NFO`
+
 <img src="_images/plugin04.jpg" alt="Addon Settings">
+
+
+  - **use artwork from the local series folder, else from nfo file**: if switched on then use artwork location 'local' else 'link'
+
+  - **artwork location**: Select agent `link` or `local` | link = get pictures from NFO file over internet, local = use artwork from filesystem
+
+> [!NOTE]
+> If you don't have any images in your video collection, the default settings will work.
 
 <img src="_images/plugin05.jpg" alt="Addon Settings">
 
