@@ -114,11 +114,11 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
 <img src="_images/plugin06.jpg" alt="Addon Settings">
 
+  - **actor thumb location**: Select `link` or `local` | link = get pictures from NFO file over internet, local = use artwork from filesystem
+
 <img src="_images/plugin07.jpg" alt="Addon Settings">
 
 <img src="_images/plugin08.jpg" alt="Addon Settings">
-
-<img src="_images/plugin09.jpg" alt="Addon Settings">
 
 
 ## Display in Plex
