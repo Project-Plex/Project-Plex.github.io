@@ -69,8 +69,8 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
 - Server -> Settings -> Agents
 
-  - **Shows**: xxxx
-
+  - **Shows -> TheSportsDB-NFO**: Local Media Assets (TV) -> Position 1, if not enabled, turn it on!
+  - **Shows -> TheSportsDB-NFO**: TheSportsDB-NFO -> Position 2, if not enabled, turn it on!
 
 
 <img src="_images/plugin01.jpg" alt="Addon Settings">
