@@ -151,13 +151,21 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
 ## Example files
 
-## Example files - for Plex NFO Importer
+### Example files - for Plex NFO Importer
+
+  - **Sports folder**: League/TV show folders
 
 <img src="_images/winfiles03.jpg" alt="Addon Settings">
 
+  - **League/TV show folder from**:  `English Premiere League`
+
 <img src="_images/winfiles04.jpg" alt="Addon Settings">
 
+  - **Season folder from**:  `English Premiere League` Season `2021-2022`
+
 <img src="_images/winfiles05.jpg" alt="Addon Settings">
+
+  - **Download link**: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">TheSportsDB-NFO_Demo_Files-0.9.1.zip</a>
 
 ### Overview Github files
 
