@@ -205,16 +205,17 @@ Example 1: Formula 1 => Season 2024: https://www.thesportsdb.com/season/4370-For
 
 Example 2: Formula E => Season 2021-2022: https://www.thesportsdb.com/season/4371-Formula-E/2021-2022 / Episode: https://www.thesportsdb.com/event/1392214-Monaco-E-Prix
 
-  - **<season>**: 2022 => Do not use 2021-2022 or 2021, only 2022! In Filesystem, you can use /Season 2021-2022/ as folders.
+  - **<season>**: 2022 => Do not use 2021-2022 or 2021, only 2022! Always the higher. In Filesystem, you can use /Season 2021-2022/ as folders.
 
-  - **<episode>**: Formula E 2022-04-30 Monaco E Prix.`S2022E6`.mkv not Formula E 2022-04-30 Monaco E Prix.`S2021-2022E6`.mkv
+  - **<episode>**: Formula E 2022-04-30 Monaco E Prix.`S2022E6`.mkv not Formula E 2022-04-30 Monaco E Prix.`S2021-2022E6`.mkv (Always the higher)
 
 <img src="_images/sportsdb02.jpg" alt="Addon Settings">
 
 > [!NOTE]
 > Here we can take the rounds as episodes, but we have to be careful when naming the seasons!
 
-
+> [!NOTE]
+> In the future, there will be packages like the demo files. You select the leagues you want and put your episodes in the given league/season folder. After that, you just have to name your video episodes the same as the corresponding NFO file.
 
 ## Information about this Project:
 
