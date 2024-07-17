@@ -5,7 +5,7 @@
 # Project Plex - The Sports Database - Plex NFO Importer
 ## TheSportsDB-NFO.bundle
 
-Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
+
 
 <p align="left">
 <ul>
@@ -21,6 +21,8 @@ Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Proj
 Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">https://github.com/Project-Plex/TheSportsDB-NFO.bundle</a>
   
 <a href="https://discord.com/channels/481047912286257152/481047912286257155"><img src="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/master/Information/images/discord-logo.png" alt="Join the chat at Discord" height="24"></a> Join us at Discord: <a href="https://discord.com/channels/481047912286257152/481047912286257155">TheDataDB</a>
+
+Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
 
 
 # Documentation
