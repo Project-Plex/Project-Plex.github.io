@@ -2,9 +2,9 @@
 > [!NOTE]
 > Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectPlex</a>
 
-# Project Plex - Repository - English:
+## Project Plex - Repository - English:
 
-## Plex Addons:
+### Plex Addons:
 
 
 <b>=> Project Plex - Plex NFO Importer (TheSportsDB-NFO.bundle) - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
@@ -18,9 +18,9 @@
 
 
 
-# Project Plex - Repository - German:
+## Project Plex - Repository - German:
 
-## Plex Addons:
+### Plex Addons:
 
 
 <b>=> Project Plex - Plex NFO Importer (TheSportsDB-NFO.bundle) - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
