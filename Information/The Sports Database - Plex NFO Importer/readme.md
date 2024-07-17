@@ -23,7 +23,7 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
   
 <a href="https://discord.com/channels/481047912286257152/481047912286257155"><img src="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/master/Information/images/discord-logo.png" alt="Join the chat at Discord" height="24"></a> Join us at Discord: <a href="https://discord.com/channels/481047912286257152/481047912286257155">TheDataDB</a>
 
-Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
+
 
 
 # Documentation
@@ -88,3 +88,5 @@ Done.
 ## Information about this Project:
 
  NFO file Importer Agent for Plex, that uses www.thesportsdb.com
+
+ Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
