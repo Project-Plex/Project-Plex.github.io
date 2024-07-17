@@ -125,17 +125,24 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
 ### Display in Plex - Plex Default Skin
 
+
+  - **Overview TV shows**: 
+
 <img src="_images/view01.jpg" alt="Addon Settings">
 
+  - **View TV show**: 
 
 <img src="_images/view02.jpg" alt="Addon Settings">
 
+  - **View Season**: 
 
 <img src="_images/view03.jpg" alt="Addon Settings">
 
+  - **View Episode**: 
 
 <img src="_images/view04.jpg" alt="Addon Settings">
 
+  - **View Episode editor**: 
 
 <img src="_images/view05.jpg" alt="Addon Settings">
 
