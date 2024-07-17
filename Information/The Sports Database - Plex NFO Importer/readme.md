@@ -30,7 +30,7 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 - Settings
 - Display in Plex
 - Example files
-- NFO & Video file informations
+- NFO & Video file informations (An important section after the first test run with the demo files.)
 - Information about this Project 
 
 
