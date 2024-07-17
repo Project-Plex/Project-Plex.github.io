@@ -24,22 +24,17 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 <a href="https://discord.com/channels/481047912286257152/481047912286257155"><img src="https://raw.githubusercontent.com/Project-Plex/PlexSportScanner/master/Information/images/discord-logo.png" alt="Join the chat at Discord" height="24"></a> Join us at Discord: <a href="https://discord.com/channels/481047912286257152/481047912286257155">TheDataDB</a>
 
 
-
-
 # Documentation
 
-- Addon download and installation
+- Download and installation
 
-- Addon settings
+- Settings
 
-- Addong using
-
-- NFO & Video file informations
+- Display in Plex
 
 - Example files
 
-
-
+- NFO & Video file informations
 
 
 
@@ -61,32 +56,14 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 
 <img src="_images/winfiles02.jpg" alt="Addon Settings">
 
-Install on ubuntu as example:
-- Download from github and unzip
-- Remove "-master" from the end of both folder names.
-- Copy them to the folder:  /var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-ins
-- Find the group number for user "plex" by command "id plex".
-- "cd" to folder in step 3 and change ownership of both folder bundles: "sudo chown plex:{gid} XBMC*"
-- run "sudo service plexmediaserver restart".
-Done.
+### Download & Installation on ubuntu
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Download from github and unzip
+2. Remove "-master" from the end of both folder names.
+3. Copy them to the folder:  /var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-ins
+4. Find the group number for user "plex" by command "id plex".
+5. "cd" to folder in step 3 and change ownership of both folder bundles: "sudo chown plex:{gid} XBMC*"
+6. run "sudo service plexmediaserver restart".
 
 
 ## Addon Settings
@@ -117,9 +94,9 @@ Done.
 
 
 
-## Addong using
+## Display in Plex
 
-### Addong using - Plex Default Skin
+### Display in Plex - Plex Default Skin
 
 <img src="_images/view01.jpg" alt="Addon Settings">
 
