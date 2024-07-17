@@ -72,8 +72,7 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
   - **Shows -> TheSportsDB-NFO**: Local Media Assets (TV) -> Position 1, if not enabled, turn it on!
   - **Shows -> TheSportsDB-NFO**: TheSportsDB-NFO -> Position 2, if not enabled, turn it on!
 
-> [!NOTE]
-> Move with drag and drop to reach the desired position
+  => Move with drag and drop to reach the desired position
   
 
 
