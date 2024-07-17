@@ -1,7 +1,7 @@
 
 
 > [!NOTE]
-> Please use: <a href="https://github.com/mmmmmtasty/SportScanner">Plex SportScanner</a> from mmmmmtasty!
+> Source: <a href="https://github.com/mmmmmtasty/SportScanner">Plex SportScanner</a> from mmmmmtasty!
 
 # Project Plex - The Sports Database - PlexSportScanner 
 
