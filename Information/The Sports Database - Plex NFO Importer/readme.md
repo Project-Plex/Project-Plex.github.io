@@ -15,6 +15,7 @@
     <li>Download Example Files: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">TheSportsDB-NFO_Demo_Files-0.9.1.zip</a></li>
     <li>There will later be separate league packages available for download on thesportsdb.com.</li>
     <li>Exchange NFO package in Discord channel, use the scraper from Project Kodi - <a href="https://github.com/Project-Kodi">The Sports Database Pyhton</a> to generate NFO files</li>
+    <li>Download Windows Bat file that captures series folders and files. Just put it in the series folder and click! I urgently need examples of working Plex and Kodi libraries. Please help me, you can send me the output file in <a href="https://discord.gg/pFvgaXV">Discord</a>: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">get_full_list.zip</a></li>
   </ul>
   </p>
 
