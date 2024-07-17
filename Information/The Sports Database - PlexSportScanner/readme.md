@@ -11,7 +11,7 @@ Please use: <a href="https://github.com/mmmmmtasty/SportScanner">Plex SportScann
 <ul>
     <li>Coming..</li>
     <li>-</li>
-    <li>Download: Use the: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads</a></li>
+    <li>Download: use the following link: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads</a></li>
   </ul>
   </p>
 
