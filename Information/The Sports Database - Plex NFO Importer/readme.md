@@ -65,6 +65,60 @@ Install on ubuntu as example:
 Done.
 
 
+<img src="_images/github01.jpg" alt="Addon Settings">
+
+<img src="_images/nfofile01.jpg" alt="Addon Settings">
+
+<img src="_images/plugin01.jpg" alt="Addon Settings">
+
+<img src="_images/plugin02.jpg" alt="Addon Settings">
+
+<img src="_images/plugin03.jpg" alt="Addon Settings">
+
+<img src="_images/plugin04.jpg" alt="Addon Settings">
+
+<img src="_images/plugin05.jpg" alt="Addon Settings">
+
+<img src="_images/plugin06.jpg" alt="Addon Settings">
+
+<img src="_images/plugin07.jpg" alt="Addon Settings">
+
+<img src="_images/plugin08.jpg" alt="Addon Settings">
+
+<img src="_images/plugin09.jpg" alt="Addon Settings">
+
+
+<img src="_images/view01.jpg" alt="Addon Settings">
+
+
+<img src="_images/view02.jpg" alt="Addon Settings">
+
+
+<img src="_images/view03.jpg" alt="Addon Settings">
+
+
+<img src="_images/view04.jpg" alt="Addon Settings">
+
+
+<img src="_images/view05.jpg" alt="Addon Settings">
+
+
+<img src="_images/view06.jpg" alt="Addon Settings">
+
+<img src="_images/winfiles01.jpg" alt="Addon Settings">
+
+<img src="_images/winfiles02.jpg" alt="Addon Settings">
+
+<img src="_images/winfiles03.jpg" alt="Addon Settings">
+
+<img src="_images/winfiles04.jpg" alt="Addon Settings">
+
+<img src="_images/winfiles05.jpg" alt="Addon Settings">
+
+
+
+
+
 
 ## Addon Settings
 
