@@ -1,37 +1,14 @@
 
 > [!NOTE]
-> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
+> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectPlex</a>
 
-# Project Kodi - Repository Addon - English:
-## Current Version: 1.0.1
+# Project Plex - Repository - English:
+## Current Version: 1.0.0
 
 <b>=> Instructions for adding this repository:</b>
 
 
-<p align="left">
-	<ul>
-		<li>Go to the Kodi file manager.</li>
-		<li>Click on "Add source".</li>
-		<li>The path for the source is: <code>https://Project-Kodi.github.io/</code> (Give it the name "Project Kodi Repository").</li>
-		<li>Go to "Addons".</li>
-		<li>In addons, install an addon from zip.  When it asks for the location, select "Project Kodi Repository", and install <a href="repository.project.kodi-1.0.1.zip">repository.project.kodi-1.0.1.zip</a>.</li>
-		<li>Now the repository is available in Kodi.</li>
-		<li>Additionally, you should turn on automatic updating: Go to “Addons”, select “User Addons”, then “Addon Repository”, select “Project Kodi Repository” and activate automatic updating.</li>
-	</ul>
-</p>
-
-
-<b>=> Instructions for installing addons from Project Kodi Repository:</b>
-<p align="left">
-	<ul>
-		<li>Go to "Addons", select "Install from repository".</li>
-		<li>Select the "Project Kodi Repository".</li>
-		<li>Go into the accordingly section in the repository (video-plugin, scraper,..), and you'll find the apps</li>
-	</ul>
-</p>
-
-
-## Kodi Addons:
+## Plex Addons:
 
 > [!TIP]
 > Are you a sports series collector? Then try The Sports Database Python: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
@@ -59,8 +36,8 @@
 
 
 
-# Project Kodi - Repository Addon - German:
-## Current Version: 1.0.1
+# Project Plex - Repository - German:
+## Current Version: 1.0.0
 
 <b>=> Anweisungen zum Hinzufügen dieses Repositorys:</b>
 
@@ -114,6 +91,6 @@
 
 
 > [!IMPORTANT]
-> Project Kodi - Sitemap TXT: https://project-kodi.github.io/Google-Sitemap-Project-Kodi.txt
+> Project Kodi - Sitemap TXT: https://project-kodi.github.io/Google-Sitemap-Project-Plex.txt
 >
 ><img src="https://raw.githubusercontent.com/Project-Kodi/Project-Kodi.github.io/main/Information/_images/Sitemap_Project-Kodi_Project-Plex.jpg" alt="Google Sitemap for Github Projects: Project-Kodi & Project-Plex" height="60"> 
