@@ -7,7 +7,7 @@
 ## Plex Addons:
 
 
-<b>=> Project Plex - Plex NFO Importer - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository>/a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
+<b>=> Project Plex - Plex NFO Importer - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
 
 <b>=> Project Plex - PlexSportScanner - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20PlexSportScanner">Documentation</a> | <a href="https://github.com/Project-Plex/PlexSportScanner">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download>/a></b>
 
@@ -23,7 +23,7 @@
 ## Plex Addons:
 
 
-<b>=> Project Plex - Plex NFO Importer - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository>/a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
+<b>=> Project Plex - Plex NFO Importer - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
 
 <b>=> Project Plex - PlexSportScanner - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20PlexSportScanner">Documentation</a> | <a href="https://github.com/Project-Plex/PlexSportScanner">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download>/a></b>
 
@@ -33,10 +33,10 @@
 
 
 
-## Sitemap of Project Kodi & Project Plex
+### Sitemap of Project Kodi & Project Plex
 
 
 > [!IMPORTANT]
-> Project Kodi - Sitemap TXT: https://project-kodi.github.io/Google-Sitemap-Project-Plex.txt
+> Project Plex - Sitemap TXT: https://project-kodi.github.io/Google-Sitemap-Project-Plex.txt
 >
-><img src="https://raw.githubusercontent.com/Project-Kodi/Project-Kodi.github.io/main/Information/_images/Sitemap_Project-Kodi_Project-Plex.jpg" alt="Google Sitemap for Github Projects: Project-Kodi & Project-Plex" height="60"> 
+><img src="https://raw.githubusercontent.com/Project-Plex/Project-Plex.github.io/main/Information/_images/Sitemap_Project-Kodi_Project-Plex.jpg" alt="Google Sitemap for Github Projects: Project-Kodi & Project-Plex" height="60"> 
