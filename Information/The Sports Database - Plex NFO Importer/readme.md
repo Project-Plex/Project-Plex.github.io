@@ -109,7 +109,6 @@ Github Source: <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">
 <img src="_images/view05.jpg" alt="Addon Settings">
 
 
-<img src="_images/view06.jpg" alt="Addon Settings">
 
 
 ## Example files
