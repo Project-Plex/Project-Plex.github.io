@@ -203,16 +203,17 @@ Example 1: Formula 1 => Season 2024: https://www.thesportsdb.com/season/4370-For
 > Some leagues use the rounds multiple times and are therefore not usable. The episode number can only be determined by counting in this examle, or use ready to use NFO files with folders from thesportsdb.com.
 
 
-Example 2: 
+Example 2: Formula E => Season 2021-2022: https://www.thesportsdb.com/season/4371-Formula-E/2021-2022 / Episode: https://www.thesportsdb.com/event/1392214-Monaco-E-Prix
 
+  - **<season>**: 2022 => Do not use 2021-2022 or 2021, only 2022! In Filesystem, you can use /Season 2021-2022/ as folders.
 
+  - **<episode>**: Formula E 2022-04-30 Monaco E Prix.`S2022E6`.mkv not Formula E 2022-04-30 Monaco E Prix.`S2021-2022E6`.mkv
+
+<img src="_images/sportsdb02.jpg" alt="Addon Settings">
 
 > [!NOTE]
-> Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
+> Here we can take the rounds as episodes, but we have to be careful when naming the seasons!
 
-
-`<season>`
-`<episode>`
 
 
 ## Information about this Project:
