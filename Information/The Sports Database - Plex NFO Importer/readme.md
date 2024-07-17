@@ -60,7 +60,7 @@ Install on ubuntu as example:
 - Remove "-master" from the end of both folder names.
 - Copy them to the folder:  /var/lib/plexmediaserver/Library/Application Support/Plex Media Server/Plug-ins
 - Find the group number for user "plex" by command "id plex".
-- "cd" to folder in step 3 and change ownership of both XBMC bundles: "sudo chown plex:{gid} XBMC*"
+- "cd" to folder in step 3 and change ownership of both folder bundles: "sudo chown plex:{gid} XBMC*"
 - run "sudo service plexmediaserver restart".
 Done.
 
