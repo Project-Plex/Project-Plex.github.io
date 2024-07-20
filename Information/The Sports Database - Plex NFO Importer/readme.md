@@ -10,7 +10,7 @@
 <ul>
   <li>Can access any Leagues/Seasons/Events/Teams/Players information. Access artwork online or locally.</li>
   <li>Only the appropriate folder structure, NFO files and video files are required. (Example files are available)</li>
-  <li>Use our NFO Export tool (Folder structure for sports series including NFO files in a zip package)<a href="https://tsdb.sem-one.de/">https://tsdb.sem-one.de/</a></li>
+  <li>Use our NFO Export tool (Folder structure for sports series including NFO files in a zip package) <a href="https://tsdb.sem-one.de/">https://tsdb.sem-one.de/</a></li>
     <li>Download: use the following link: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">TheSportsDB-NFO.bundle-0.9.1.zip</a></li>
     <li>Download Example Files: <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">TheSportsDB-NFO_Demo_Files-0.9.1.zip</a></li>
     <li>There will later be separate league packages available for download on thesportsdb.com.</li>
