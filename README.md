@@ -31,7 +31,9 @@
 
 
 > [!TIP]
-> Sind Sie ein Sammler von Sportserien und benutzen Kodi? Dann probieren Sie The Sports Database Python aus: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
+> - Kennst du schon das NFO Export Tool für TheSportsDB.com? Ordnerstruktur für Sport Serien inklusive NFO Dateien in einem Zip Paket: <a href="https://tsdb.sem-one.de/">https://tsdb.sem-one.de/</a>!
+>
+> - Sind Sie ein Sammler von Sportserien und benutzen Kodi? Dann probieren Sie The Sports Database Python aus: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
 
 
 
