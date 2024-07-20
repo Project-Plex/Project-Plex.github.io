@@ -14,6 +14,8 @@
 
 
 > [!TIP]
+> Do you already know the NFO export tool for thesportsdb.com? Folder structure for sports series including NFO files in a zip package.: <a href="https://tsdb.sem-one.de/">[metadata.thesportsdb.python](https://tsdb.sem-one.de/)</a>!
+>
 > Are you a sports series collector and use Kodi? Then try The Sports Database Python: <a href="https://github.com/Project-Kodi/Project-Kodi.github.io/tree/main/Information/The%20Sports%20Database%20Python%20-%20metadata.thesportsdb.python">metadata.thesportsdb.python</a>!
 
 
