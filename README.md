@@ -25,7 +25,7 @@
 ### Plex Addons:
 
 
-<b>=> Project Plex - Plex NFO Importer (TheSportsDB-NFO.bundle) - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
+<b>=> Project Plex - Plex NFO Importer (TheSportsDB-NFO.bundle) - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20Plex%20NFO%20Importer">Documentation</a> | <a href="https://github.com/Project-Plex/TheSportsDB-NFO.bundle">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a> | <a href="https://www.thesportsdb.com/forum_topic.php?t=5972" target="_blank">TSDB Forum</a></b>
 
 <b>=> Project Plex - PlexSportScanner - <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Information/The%20Sports%20Database%20-%20PlexSportScanner">Documentation</a> | <a href="https://github.com/Project-Plex/PlexSportScanner">Github Repository</a> | <a href="https://github.com/Project-Plex/Project-Plex.github.io/tree/main/Downloads">Download</a></b>
 
