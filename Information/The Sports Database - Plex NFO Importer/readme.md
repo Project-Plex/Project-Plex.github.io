@@ -214,11 +214,10 @@ Example 2: Formula E => Season 2021-2022: https://www.thesportsdb.com/season/437
 > [!NOTE]
 > Here we can take the rounds as episodes, but we have to be careful when naming the seasons!
 
-> [!NOTE]
-> In the future, there will be packages like the demo files. You select the leagues you want and put your episodes in the given league/season folder. After that, you just have to name your video episodes the same as the corresponding NFO file.
-
 ## Information about this Project:
 
  NFO file Importer Agent for Plex, that uses www.thesportsdb.com
+
+ The TheSportsDB.com Forum: <a href="https://www.thesportsdb.com/forum_topic.php?t=5972" target="_blank">[Plex Add-on] Plex NFO Importer</a>
 
  Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
