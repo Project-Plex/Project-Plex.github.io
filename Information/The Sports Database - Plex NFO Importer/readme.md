@@ -205,9 +205,9 @@ Example 1: Formula 1 => Season 2024: https://www.thesportsdb.com/season/4370-For
 
 Example 2: Formula E => Season 2021-2022: https://www.thesportsdb.com/season/4371-Formula-E/2021-2022 / Episode: https://www.thesportsdb.com/event/1392214-Monaco-E-Prix
 
-  - **<season>**: 2022 => Do not use 2021-2022 or 2021, only 2022! Always the higher. In Filesystem, you can use /Season 2021-2022/ as folders.
+  - **<season>**: 2021 => Do not use 2021-2022 or 2022, only 2021! Always the lower. In Filesystem, you can use /Season 2021-2022/ as folders.
 
-  - **<episode>**: Formula E 2022-04-30 Monaco E Prix.`S2022E6`.mkv not Formula E 2022-04-30 Monaco E Prix.`S2021-2022E6`.mkv (Always the higher)
+  - **<episode>**: Formula E 2021-04-30 Monaco E Prix.`S2021E6`.mkv not Formula E 2022-04-30 Monaco E Prix.`S2021-2022E6`.mkv (Always the lower)
 
 <img src="_images/sportsdb02.jpg" alt="Addon Settings">
 
