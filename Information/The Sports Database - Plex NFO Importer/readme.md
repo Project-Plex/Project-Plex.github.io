@@ -2,6 +2,10 @@
 > [!NOTE]
 > Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectKodi</a>
 
+> [!WARNING]
+> Please use our new community for documentation, support and downloads: <a href="https://tsdb.club/">[TSDB.club](https://tsdb.club/)</a>
+> This is just the Kodi repository to get automatic updates!
+
 # Project Plex - The Sports Database - Plex NFO Importer
 ## TheSportsDB-NFO.bundle
 

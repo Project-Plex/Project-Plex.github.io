@@ -3,6 +3,10 @@
 > [!NOTE]
 > Source: <a href="https://github.com/mmmmmtasty/SportScanner">Plex SportScanner</a> from mmmmmtasty!
 
+> [!WARNING]
+> Please use our new community for documentation, support and downloads: <a href="https://tsdb.club/">[TSDB.club](https://tsdb.club/)</a>
+> This is just the Kodi repository to get automatic updates!
+
 # Project Plex - The Sports Database - PlexSportScanner 
 
 Project Plex: <a href="https://github.com/Project-Plex/">https://github.com/Project-Plex/</a> | Project Kodi: <a href="https://github.com/Project-Kodi/">https://github.com/Project-Kodi/</a>
