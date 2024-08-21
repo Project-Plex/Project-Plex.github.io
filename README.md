@@ -2,6 +2,10 @@
 > [!NOTE]
 > Support us on Patreon: <a href="https://patreon.com/ProjectKodi">patreon.com/ProjectPlex</a>
 
+> [!WARNING]
+> Please use our new community for documentation, support and downloads: <a href="https://tsdb.club/">[TSDB.club](https://tsdb.club/)</a>
+> This is just the Kodi repository to get automatic updates!
+
 ## Project Plex - Repository - English:
 
 ### Plex Addons:
